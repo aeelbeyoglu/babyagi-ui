@@ -46,7 +46,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>BabyAGI-UI</title>
+        <title>SEO Agent</title>
         <meta
           name="description"
           content="BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT."
